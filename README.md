@@ -61,19 +61,19 @@ plt.show()
 ```
 
 ## Output:
-1. Head:
+### 1. Head:
 ![Screenshot 2024-04-02 182139](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144870552/ec092b75-6cc7-452c-8569-cbb76864d867)
 
 
-2. Mean square error:
+### 2. Mean square error:
 ![Screenshot 2024-04-02 182035](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144870552/c5b95e50-ebcc-4f69-bf48-886f4d7a4e71)
 
 
-3. Testing of Model:
+### 3. Testing of Model:
 ![Screenshot 2024-04-02 182116](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144870552/c7e8e0be-3609-4c67-a50d-5dc3d95f34b0)
 
 
-4. Decision Tree:
+### 4. Decision Tree:
 ![Screenshot 2024-04-02 182020](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144870552/1f033144-c59f-4737-ad76-d7e5571ab786)
 
 
